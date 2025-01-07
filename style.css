@@ -3,3 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+h1 {
+    background-image: linear-gradient(rgb(219, 1, 1), rgb(252, 42, 42));
+    color: white;
+}
