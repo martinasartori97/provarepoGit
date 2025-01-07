@@ -7,4 +7,7 @@
 h1 {
     background-image: linear-gradient(rgb(219, 1, 1), rgb(252, 42, 42));
     color: white;
+    text-align: center;
+    padding: 1rem;
+    text-transform: capitalize;
 }
